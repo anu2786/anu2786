@@ -1,7 +1,7 @@
 # Hi there, I'm Anu Sharma! 👋
 
 ## About Me
-I'm an aspiring Data Scientist currently pursuing a Master of Professional Studies in Data Science at the University of Auckland. With a background in academic counseling and a passion for data, I'm transitioning into the world of data science to turn data into actionable insights.
+Data Scientist with a strong machine learning, statistical analysis, and data engineering foundation. Experienced in creating predictive models, data visualizations, and insights to support business decision-making. Proficient in Python, R, SQL, and PowerBI, with hands-on expertise in data cleaning, data transformation, sentiment analysis, natural language processing, and model deployment in cloud environments.
 
 ## Skills
 - **Programming Languages:** Python, R, SQL
